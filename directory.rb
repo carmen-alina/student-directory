@@ -11,6 +11,7 @@ puts "Freddie Kruger"
 puts "The joker"
 puts "Jeffery Baratheon"
 puts "Norman Bates"
+# Finally we print the overall number of Students
 print "Overall we have "
 print 11
 puts " great students"
